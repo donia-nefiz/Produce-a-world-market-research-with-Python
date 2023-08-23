@@ -1,4 +1,4 @@
-# Produce-a-world-market-research-with-Python
+# Produce a world market research with Python
 
 My mission here for <i>La Poule qui chante</i> is to analyze the global chicken market to help them choose their direction for international development.
 
